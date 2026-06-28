@@ -6,3 +6,4 @@ langchain-mistralai
 python-dotenv
 langchain-google-genai
 ipykernal
+langsmith
